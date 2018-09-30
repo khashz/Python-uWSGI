@@ -1,6 +1,6 @@
 # Python-uWSGI
 
-This python uWSGI template provides a logger which prints to a file called server_logger.log in the current directory.
+This python uWSGI template provides a logger which prints to a file called server_logs.log in the current directory.
 
 It utilizes a singleton handler class to respond to API calls.
 
